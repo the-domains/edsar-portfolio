@@ -1,0 +1,28 @@
+name: edsar-portfolio
+favicon: null
+layout_spectrum: 0.2950642937794328
+typography_spectrum: 0.7899528872221708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7931166372727603
+  lightness: 0.647637024288997
+  saturation: 0.3419117785524577
+  rhythmicContrast: 0.7866466620471328
+purpose: []
